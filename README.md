@@ -18,8 +18,8 @@ LLM을 활용한 추천시스템 개선 프로젝트
 <br/>
 
 ## Team 
-- PM: [홍준기]
-- Team members [[경재영](https://github.com/economy0)]  ,[서혜현(https://github.com/hyehyunseo)]  , [원서현(https://github.com/seohyun126)]
+- PM: [[홍준기](https://github.com/JoonKeeHong00)]
+- Team members [[경재영](https://github.com/economy0)]  ,[[서혜현](https://github.com/hyehyunseo)]  , [[원서현](https://github.com/seohyun126)]
 
 
 <br/>
