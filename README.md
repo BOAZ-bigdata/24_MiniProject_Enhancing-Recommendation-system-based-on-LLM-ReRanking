@@ -19,7 +19,7 @@ LLM을 활용한 추천시스템 개선 프로젝트
 
 ## Team 
 - PM: [[홍준기](https://github.com/JoonKeeHong00)]
-- Team members [[경재영](https://github.com/economy0)]  ,[[서혜현](https://github.com/hyehyunseo)]  , [[원서현](https://github.com/seohyun126)]
+- Team members: [[경재영](https://github.com/economy0)]  ,[[서혜현](https://github.com/hyehyunseo)]  , [[원서현](https://github.com/seohyun126)]
 
 
 <br/>
@@ -45,7 +45,7 @@ LLM을 활용한 추천시스템 개선 프로젝트
 > Previous phase에서 도출된 Target_user Recommendation list의 합리성 및 개선점 제언
 
 
-
+<br/>
 
 ## ETCs
 - pandas>=2.0.0
